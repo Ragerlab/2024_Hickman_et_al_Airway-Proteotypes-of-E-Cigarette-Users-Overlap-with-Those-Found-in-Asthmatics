@@ -2,7 +2,7 @@ This repository contains script associated with the manuscript "Airway Proteotyp
 
 Script author: Elise Hickman, PhD (ehickman@email.unc.edu)
 
-Hickman E, Alexis NE, Rager JE, Jaspers I. Airway Proteotypes of E-Cigarette Users Overlap with Those Found in Asthmatics. Am J Respir Cell Mol Biol. 2024 Apr;70(4):326-328. doi: 10.1165/rcmb.2023-0381LE. PMID: 38557396; PMCID: PMC11478130.
++ Hickman E, Alexis NE, Rager JE, Jaspers I. Airway Proteotypes of E-Cigarette Users Overlap with Those Found in Asthmatics. Am J Respir Cell Mol Biol. 2024 Apr;70(4):326-328. doi: 10.1165/rcmb.2023-0381LE. PMID: 38557396; PMCID: PMC11478130.
 
 This script was developed to identify overlap in sputum proteomic profiles between e-cig users and asthmatics, with data sourced from the following publications:
 
